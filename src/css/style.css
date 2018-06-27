@@ -1,0 +1,27 @@
+body {
+  font-family: Avenir;
+  margin-top: 30px;
+}
+
+.searchForm {
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+@font-face {
+  font-family: Avenir;
+  src: url(https://www.wfonts.com/download/data/2016/06/21/avenir/AEH.ttf);
+}
